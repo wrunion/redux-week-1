@@ -1,3 +1,5 @@
-This project contains all the code from the Learn How to Program Week 2: React Fundamentals coursework. It is a starter repo to continue the project in Week 3: Redux with the lesson "Setting up Our First Redux Project."
+### Help Queue - Redux Refactor
 
-DO NOT ALTER THIS REPO.
+Refactoring my Help Queue project by using Redux to store state. Follows along with [this](https://www.learnhowtoprogram.com/react-part-time-react-track/react-with-redux-part-1/introduction-to-redux) free Epicodus lesson.
+
+*Completed 5.3.2020*
