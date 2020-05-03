@@ -50,6 +50,7 @@ class TicketControl extends React.Component {
       selectedTicket: null
     });
   }
+  
 
   handleEditClick = () => {
     this.setState({editing: true});
